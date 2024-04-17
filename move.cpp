@@ -15,8 +15,8 @@ static char cptaccelx=0;
 static char cptaccely=0;
 static int act_sens_x=0,act_sens_y=0;
 static int desired_sens_x=0,desired_sens_y=0;
-static char previous_edge_x=0;
-static char previous_edge_y=0;
+//static char previous_edge_x=0;
+//static char previous_edge_y=0;
 
 static int CPT_ACCEL_X=100;
 static int CPT_ACCEL_Y=0;
